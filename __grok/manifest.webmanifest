@@ -1,0 +1,18 @@
+{
+  "name": "huangzhiyuan",
+  "short_name": "huangzhiyuan",
+  "description": "huangzhiyuan · 网站与软件开发者",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F3EEE6",
+  "theme_color": "#F3EEE6",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "/__grok/icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
